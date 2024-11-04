@@ -1,0 +1,11 @@
+Kaynaklar
+https://developer.mozilla.org/en-US/docs/Learn/HTML
+https://www.w3schools.com/
+
+
+VS Code Extension
+Live Server
+VS Code extension bölümüne geçip seach kutusuna  ritwickdey.LiveServer yazıp çıkan extensionı indirebilirsiniz.
+
+
+
