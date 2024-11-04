@@ -1,2 +1,22 @@
 Block ve Inline Elementler
 https://www.w3schools.com/html/html_blocks.asp
+
+Box Model video
+https://www.youtube.com/watch?v=dTUtsy54eP0
+
+İki Kutunun Yanyana Gelme Hikayesi
+https://www.youtube.com/watch?v=OaEtW_CSaPk
+
+Flex
+https://www.youtube.com/watch?v=_s15i3MoAyE
+
+CSS Flexbox Guide
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+Flex Game
+https://flexboxfroggy.com/
+
+
+
+
+
