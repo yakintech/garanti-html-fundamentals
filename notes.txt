@@ -21,3 +21,8 @@ https://youtube.com/watch?v=OXGznpKZ_sA
 
 ADEM ILTER
 https://www.youtube.com/@AdemIlter
+
+
+Mobile Connect Browser
+https://developer.chrome.com/docs/devtools/remote-debugging
+https://dev.to/nimajafari/remote-debugging-using-safari-on-ios-devices-with-macos-16p5#:~:text=Enable%20Develop%20on%20your%20Mac,then%20enable%20Web%20Inspector%20there.
