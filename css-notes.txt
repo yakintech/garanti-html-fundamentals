@@ -16,7 +16,18 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 Flex Game
 https://flexboxfroggy.com/
 
+Font Awesome Icons
+https://fontawesome.com/icons
 
+CSS Pseudo Classes
+https://www.w3schools.com/cssref/css_ref_pseudo_classes.php
+
+
+CSS Responsive
+https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+
+CSS Ölçü Birimleri
+https://medium.com/baakademi/cssde-%C3%B6l%C3%A7%C3%BC-ve-uzunluk-birimleri-6563c2ee9853
 
 
 
